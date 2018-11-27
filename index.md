@@ -10,7 +10,8 @@ humandate: "November 29, 2018"    # human-readable dates for the workshop (e.g.,
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructors: ["Paige Morgan", "Cameron Riopelle"] 
+instructors: ["Paige Morgan"] 
+helper: ["Cameron Riopelle"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["p.morgan@miami.edu", "criopelle@miami.edu"]    
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 
