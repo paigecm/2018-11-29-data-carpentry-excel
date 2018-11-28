@@ -2,10 +2,10 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # dc
 venue: "University of Miami"        # University of Miami
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "McArthur Engineering Annex/Addition, 1251 Memorial Dr, Coral Gables, FL 33146"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "25.723044, -80.278800"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "November 29-30, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-11-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -28,8 +28,6 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-
-<h4>This is just a test to make sure that the website is updating.</h4>
 
 <h2 id="general">General Information</h2>
 
