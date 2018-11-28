@@ -269,7 +269,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   Library Carpentry
   {% endif %}
   workshop,
-  you will need access to the software described below.
+  you will need access to the software and data described below.
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
