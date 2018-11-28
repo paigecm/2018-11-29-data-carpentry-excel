@@ -278,6 +278,13 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<div id="spreadsheets"> {% comment %} Start of 'Spreadsheets' section {% endcomment %}
+  <h3>Spreadsheets</h3>
+  <p> To interact with spreadsheets, we can use LibreOffice, Microsoft Excel, Gnumeric, or other programs. Commands may differ a bit between programs, but the general ideas for thinking about spreadsheets are the same.</p>
+
+<p>For this lesson, if you don’t have a spreadsheet program already, you can use LibreOffice. It’s a free, open source spreadsheet program.</p>
+
+<p>macOS users who use Apple’s Numbers application should note that it does not contain some of the features (particularly data validation) that we will be using. Please use LibreOffice or Microsoft Excel instead.</p>
 
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
