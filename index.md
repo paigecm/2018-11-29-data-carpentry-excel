@@ -278,6 +278,18 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<div id="setup-data"> {% comment %} Start of 'Setup Data' section {% endcomment %}
+  <h3>Setup Data</h3>
+  <p>You need to download some files to follow this lesson:</p>
+  <p>Download the following three files:</p>
+  <li><a href="https://ndownloader.figshare.com/files/11492171">SAFI_clean.csv</a></li>
+  <li><a href="https://ndownloader.figshare.com/files/11502824">SAFI_messy.xlsx</a></li>
+  <li><a href="https://ndownloader.figshare.com/files/11502827">SAFI_dates.xlsx</a></li>
+  <p> Place these 3 files in a folder you can easily find and access on your computer, titled datacarpentry-spreadsheets or some other name that you will be able to remember is associated with this workshop.</p>
+  
+  <p>To learn more about the data, For more information about the dataset and to download it from Figshare, check out the <a href="http://www.datacarpentry.org/socialsci-workshop/data">Social Sciences workshop data page.</a></p>
+  
+</div>
 <div id="spreadsheets"> {% comment %} Start of 'Spreadsheets' section {% endcomment %}
   <h3>Spreadsheets</h3>
   <p> To interact with spreadsheets, we can use LibreOffice, Microsoft Excel, Gnumeric, or other programs. Commands may differ a bit between programs, but the general ideas for thinking about spreadsheets are the same.</p>
