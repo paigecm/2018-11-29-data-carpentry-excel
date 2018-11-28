@@ -286,6 +286,32 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 
 <p>macOS users who use Apple’s Numbers application should note that it does not contain some of the features (particularly data validation) that we will be using. Please use LibreOffice or Microsoft Excel instead.</p>
 
+ <div class="row">
+    <div class="col-md-4">
+      <h4 id="spreadsheets-windows">Windows</h4>
+      
+  <p>Download the Installer</p>
+  <p>Install LibreOffice by going to the installation page. The version for Windows should automatically be selected. Click Download Version X.X.X (whichever is the most recent version).</p>
+  <p>Install LibreOffice</p>
+  <p>Once the installer is downloaded, double click on it and LibreOffice should install.</p>
+ </div>
+ <div class="col-md-4">
+      <h4 id="spreadsheets-mac">Mac</h4>
+  <p>Download the Installer</p>
+<p>Install LibreOffice by going to the installation page. The version for Mac should automatically be selected. Click Download Version X.X.X (whichever is the most recent version).</p>
+  <p>Install LibreOffice</p>
+  <p>Once the installer is downloaded, double click on it and LibreOffice should install.</p>
+  </div>
+  <div class="col-md-4">
+      <h4 id="spreadsheets-linux">Linux</h4>
+  <p>Download the Installer</p>
+  <p>Install LibreOffice by going to the installation page. The version for Linux should automatically be selected. Click Download Version X.X.X (whichever is the most recent version).</p>
+  <p>Install LibreOffice</p>
+  <p>Once the installer is downloaded, double click on it and LibreOffice should install.</p>
+   </div>
+  </div>
+</div> {% comment %} End of 'Spreadsheets' section. {% endcomment %}
+
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
