@@ -285,7 +285,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   <li><a href="https://ndownloader.figshare.com/files/11492171">SAFI_clean.csv</a></li>
   <li><a href="https://ndownloader.figshare.com/files/11502824">SAFI_messy.xlsx</a></li>
   <li><a href="https://ndownloader.figshare.com/files/11502827">SAFI_dates.xlsx</a></li>
-  <p> Place these 3 files in a folder you can easily find and access on your computer, titled datacarpentry-spreadsheets or some other name that you will be able to remember is associated with this workshop.</p>
+  <p> Place these 3 files in a folder you can easily find and access on your computer, titled <code>datacarpentry-spreadsheets</code> or some other name that you will be able to remember is associated with this workshop.</p>
   
   <p>To learn more about the data, For more information about the dataset and to download it from Figshare, check out the <a href="http://www.datacarpentry.org/socialsci-workshop/data">Social Sciences workshop data page.</a></p>
   
