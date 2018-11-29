@@ -30,6 +30,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 
 
 <h2 id="general">General Information</h2>
+<h2> This webpage is located at <a href="https://paigecm.github.io/2018-11-29-data-carpentry-excel-openrefine/">https://paigecm.github.io/2018-11-29-data-carpentry-excel-openrefine/</a></h2>
 
 {% comment %}
   INTRODUCTION
